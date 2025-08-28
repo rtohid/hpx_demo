@@ -25,6 +25,8 @@
     - `--hpx:threads=n`
     - `--hpx:list-counters`
         - `--hpx:print-counter=...`
+    - `--hpx:list-parcel-ports`
+    - and many more: `--hpx:help`
 
 ## resources
 - [repo](https://github.com/STEllAR-GROUP/hpx)
